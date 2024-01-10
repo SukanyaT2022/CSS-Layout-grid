@@ -1,0 +1,44 @@
+.container{
+    background-color: green;
+    }
+    .layout{
+    
+    }
+    form{
+
+    }
+    .first-name{
+ width: 31%;
+ margin-bottom: 10px;
+    }
+    .last-name{
+        width: 31%;
+        margin-bottom: 10px;
+    }
+    .age{
+        width: 31%;
+        margin-bottom: 10px;
+    }
+    .address{
+    width: 100%;
+    margin-bottom: 10px;
+    }
+    .place-of-work{
+    width: 47.5%;
+    margin-bottom: 10px;
+    }
+    .job-title{
+        width: 47.5%;
+        margin-bottom: 10px;
+    }
+    .phone-number{
+        width: 47.5%;
+        margin-bottom: 10px;
+    }
+    .skype{
+        width: 47.5%;
+        margin-bottom: 10px;
+    }
+    button{
+    width: 100%;
+    }

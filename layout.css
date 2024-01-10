@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.box{
+    border: 1px solid blue;
+    background-color: aqua;
+    padding: 20px;
+}
+.container{
+
+}
+.layout{
+    width: 100%;
+display: flex;
+}
+.left{
+width: 80%;
+}
+.content{
+    width: 100%;
+}
+.sidebar{
+background-color: pink;
+}
+.article{
+background-color:green;
+}
+.right{
+width: 20%;
+}
+
+/* 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.box{
+    border: 1px solid blue;
+    background-color: aqua;
+    padding: 20px;
+}
+.container{
+
+}
+.layout{
+
+}
+.left{
+
+}
+.right{
+    
+} */
